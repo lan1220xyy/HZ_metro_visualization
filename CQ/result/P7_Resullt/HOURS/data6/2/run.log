@@ -1,0 +1,404 @@
+2024-11-03 19:08: Experiment log path in: /root/AGCRN/model/experiments/HOURS/data6/2/20241103190827
+2024-11-03 19:08: Train Epoch 1: 0/4 Loss: 59.755054
+2024-11-03 19:08: **********Train Epoch 1: averaged Loss: 59.871833, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 1: average Loss: 59.163120
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 2: 0/4 Loss: 59.947830
+2024-11-03 19:08: **********Train Epoch 2: averaged Loss: 59.866465, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 2: average Loss: 59.139038
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 3: 0/4 Loss: 59.916462
+2024-11-03 19:08: **********Train Epoch 3: averaged Loss: 59.825304, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 3: average Loss: 59.098148
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 4: 0/4 Loss: 59.786812
+2024-11-03 19:08: **********Train Epoch 4: averaged Loss: 59.751445, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 4: average Loss: 59.018276
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 5: 0/4 Loss: 59.879810
+2024-11-03 19:08: **********Train Epoch 5: averaged Loss: 59.670123, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 5: average Loss: 58.830723
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 6: 0/4 Loss: 59.546955
+2024-11-03 19:08: **********Train Epoch 6: averaged Loss: 59.323950, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 6: average Loss: 58.278179
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 7: 0/4 Loss: 58.839542
+2024-11-03 19:08: **********Train Epoch 7: averaged Loss: 58.558056, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 7: average Loss: 56.838234
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 8: 0/4 Loss: 57.515076
+2024-11-03 19:08: **********Train Epoch 8: averaged Loss: 56.719975, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 8: average Loss: 54.887577
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 9: 0/4 Loss: 55.950909
+2024-11-03 19:08: **********Train Epoch 9: averaged Loss: 54.852957, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 9: average Loss: 53.155975
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 10: 0/4 Loss: 53.980389
+2024-11-03 19:08: **********Train Epoch 10: averaged Loss: 53.191886, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 10: average Loss: 51.600025
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 11: 0/4 Loss: 52.215775
+2024-11-03 19:08: **********Train Epoch 11: averaged Loss: 51.673929, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 11: average Loss: 50.087894
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 12: 0/4 Loss: 51.083241
+2024-11-03 19:08: **********Train Epoch 12: averaged Loss: 50.265543, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 12: average Loss: 48.606136
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 13: 0/4 Loss: 49.063255
+2024-11-03 19:08: **********Train Epoch 13: averaged Loss: 48.754196, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 13: average Loss: 47.215359
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 14: 0/4 Loss: 47.769867
+2024-11-03 19:08: **********Train Epoch 14: averaged Loss: 47.373853, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 14: average Loss: 45.944729
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 15: 0/4 Loss: 46.559395
+2024-11-03 19:08: **********Train Epoch 15: averaged Loss: 46.169332, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 15: average Loss: 44.736927
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 16: 0/4 Loss: 45.259090
+2024-11-03 19:08: **********Train Epoch 16: averaged Loss: 45.003573, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 16: average Loss: 43.575989
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 17: 0/4 Loss: 44.390362
+2024-11-03 19:08: **********Train Epoch 17: averaged Loss: 43.897074, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 17: average Loss: 42.457470
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 18: 0/4 Loss: 43.124714
+2024-11-03 19:08: **********Train Epoch 18: averaged Loss: 42.753582, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 18: average Loss: 41.378639
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 19: 0/4 Loss: 41.956306
+2024-11-03 19:08: **********Train Epoch 19: averaged Loss: 41.717592, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 19: average Loss: 40.329403
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 20: 0/4 Loss: 40.953133
+2024-11-03 19:08: **********Train Epoch 20: averaged Loss: 40.577057, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 20: average Loss: 39.304707
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 21: 0/4 Loss: 39.891422
+2024-11-03 19:08: **********Train Epoch 21: averaged Loss: 39.611826, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 21: average Loss: 38.301373
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 22: 0/4 Loss: 39.171337
+2024-11-03 19:08: **********Train Epoch 22: averaged Loss: 38.660769, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 22: average Loss: 37.318359
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 23: 0/4 Loss: 38.020832
+2024-11-03 19:08: **********Train Epoch 23: averaged Loss: 37.603371, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 23: average Loss: 36.354908
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 24: 0/4 Loss: 36.988255
+2024-11-03 19:08: **********Train Epoch 24: averaged Loss: 36.654115, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 24: average Loss: 35.410637
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 25: 0/4 Loss: 36.334835
+2024-11-03 19:08: **********Train Epoch 25: averaged Loss: 35.761964, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 25: average Loss: 34.485126
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 26: 0/4 Loss: 35.279770
+2024-11-03 19:08: **********Train Epoch 26: averaged Loss: 34.782862, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 26: average Loss: 33.578030
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 27: 0/4 Loss: 34.382183
+2024-11-03 19:08: **********Train Epoch 27: averaged Loss: 33.940578, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 27: average Loss: 32.687653
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 28: 0/4 Loss: 33.249710
+2024-11-03 19:08: **********Train Epoch 28: averaged Loss: 32.972512, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 28: average Loss: 31.813808
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 29: 0/4 Loss: 32.251266
+2024-11-03 19:08: **********Train Epoch 29: averaged Loss: 32.100790, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 29: average Loss: 30.956490
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 30: 0/4 Loss: 31.706308
+2024-11-03 19:08: **********Train Epoch 30: averaged Loss: 31.282436, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 30: average Loss: 30.115936
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 31: 0/4 Loss: 31.054188
+2024-11-03 19:08: **********Train Epoch 31: averaged Loss: 30.365170, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 31: average Loss: 29.292658
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 32: 0/4 Loss: 29.918404
+2024-11-03 19:08: **********Train Epoch 32: averaged Loss: 29.575293, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 32: average Loss: 28.486776
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 33: 0/4 Loss: 29.161551
+2024-11-03 19:08: **********Train Epoch 33: averaged Loss: 28.781934, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 33: average Loss: 27.698025
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 34: 0/4 Loss: 28.151073
+2024-11-03 19:08: **********Train Epoch 34: averaged Loss: 27.912859, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 34: average Loss: 26.926643
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 35: 0/4 Loss: 27.774300
+2024-11-03 19:08: **********Train Epoch 35: averaged Loss: 27.271500, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 35: average Loss: 26.172024
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 36: 0/4 Loss: 26.554037
+2024-11-03 19:08: **********Train Epoch 36: averaged Loss: 26.527579, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 36: average Loss: 25.433323
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 37: 0/4 Loss: 26.111591
+2024-11-03 19:08: **********Train Epoch 37: averaged Loss: 25.798892, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 37: average Loss: 24.710321
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 38: 0/4 Loss: 25.475538
+2024-11-03 19:08: **********Train Epoch 38: averaged Loss: 25.030680, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 38: average Loss: 24.003387
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 39: 0/4 Loss: 24.534784
+2024-11-03 19:08: **********Train Epoch 39: averaged Loss: 24.292805, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 39: average Loss: 23.314201
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 40: 0/4 Loss: 23.882236
+2024-11-03 19:08: **********Train Epoch 40: averaged Loss: 23.651136, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 40: average Loss: 22.640354
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 41: 0/4 Loss: 23.182772
+2024-11-03 19:08: **********Train Epoch 41: averaged Loss: 22.956233, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 41: average Loss: 21.980139
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 42: 0/4 Loss: 22.377453
+2024-11-03 19:08: **********Train Epoch 42: averaged Loss: 22.300865, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 42: average Loss: 21.332899
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 43: 0/4 Loss: 21.714188
+2024-11-03 19:08: **********Train Epoch 43: averaged Loss: 21.651171, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 43: average Loss: 20.698597
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 44: 0/4 Loss: 21.290825
+2024-11-03 19:08: **********Train Epoch 44: averaged Loss: 21.041908, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 44: average Loss: 20.077074
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 45: 0/4 Loss: 20.701612
+2024-11-03 19:08: **********Train Epoch 45: averaged Loss: 20.423609, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 45: average Loss: 19.469509
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 46: 0/4 Loss: 20.244692
+2024-11-03 19:08: **********Train Epoch 46: averaged Loss: 19.766661, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 46: average Loss: 18.875780
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 47: 0/4 Loss: 19.500025
+2024-11-03 19:08: **********Train Epoch 47: averaged Loss: 19.248683, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 47: average Loss: 18.295475
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 48: 0/4 Loss: 19.006895
+2024-11-03 19:08: **********Train Epoch 48: averaged Loss: 18.636551, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 48: average Loss: 17.728439
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 49: 0/4 Loss: 18.293459
+2024-11-03 19:08: **********Train Epoch 49: averaged Loss: 18.064916, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 49: average Loss: 17.174774
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 50: 0/4 Loss: 17.811874
+2024-11-03 19:08: **********Train Epoch 50: averaged Loss: 17.522130, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 50: average Loss: 16.634264
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 51: 0/4 Loss: 17.123192
+2024-11-03 19:08: **********Train Epoch 51: averaged Loss: 16.961674, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 51: average Loss: 16.106220
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 52: 0/4 Loss: 16.653677
+2024-11-03 19:08: **********Train Epoch 52: averaged Loss: 16.437052, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 52: average Loss: 15.589843
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 53: 0/4 Loss: 15.879109
+2024-11-03 19:08: **********Train Epoch 53: averaged Loss: 15.896723, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 53: average Loss: 15.086024
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 54: 0/4 Loss: 15.587049
+2024-11-03 19:08: **********Train Epoch 54: averaged Loss: 15.433766, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 54: average Loss: 14.593374
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 55: 0/4 Loss: 15.018590
+2024-11-03 19:08: **********Train Epoch 55: averaged Loss: 14.943093, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 55: average Loss: 14.113459
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 56: 0/4 Loss: 14.642986
+2024-11-03 19:08: **********Train Epoch 56: averaged Loss: 14.465570, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 56: average Loss: 13.646063
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 57: 0/4 Loss: 14.174862
+2024-11-03 19:08: **********Train Epoch 57: averaged Loss: 14.001433, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 57: average Loss: 13.190936
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 58: 0/4 Loss: 13.742386
+2024-11-03 19:08: **********Train Epoch 58: averaged Loss: 13.550939, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 58: average Loss: 12.747883
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 59: 0/4 Loss: 13.235892
+2024-11-03 19:08: **********Train Epoch 59: averaged Loss: 13.093175, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 59: average Loss: 12.316212
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 60: 0/4 Loss: 12.697721
+2024-11-03 19:08: **********Train Epoch 60: averaged Loss: 12.652771, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 60: average Loss: 11.896413
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 61: 0/4 Loss: 12.440622
+2024-11-03 19:08: **********Train Epoch 61: averaged Loss: 12.249348, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 61: average Loss: 11.489329
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 62: 0/4 Loss: 11.970186
+2024-11-03 19:08: **********Train Epoch 62: averaged Loss: 11.840209, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 62: average Loss: 11.094596
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 63: 0/4 Loss: 11.576005
+2024-11-03 19:08: **********Train Epoch 63: averaged Loss: 11.423265, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 63: average Loss: 10.713439
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 64: 0/4 Loss: 11.234983
+2024-11-03 19:08: **********Train Epoch 64: averaged Loss: 11.064938, tf_ratio: 1.000000
+2024-11-03 19:08: **********Val Epoch 64: average Loss: 10.345362
+2024-11-03 19:08: *********************************Current best model saved!
+2024-11-03 19:08: Train Epoch 65: 0/4 Loss: 10.926130
+2024-11-03 19:09: **********Train Epoch 65: averaged Loss: 10.674592, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 65: average Loss: 9.991539
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 66: 0/4 Loss: 10.541088
+2024-11-03 19:09: **********Train Epoch 66: averaged Loss: 10.299180, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 66: average Loss: 9.652802
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 67: 0/4 Loss: 9.920395
+2024-11-03 19:09: **********Train Epoch 67: averaged Loss: 9.974771, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 67: average Loss: 9.330196
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 68: 0/4 Loss: 9.669585
+2024-11-03 19:09: **********Train Epoch 68: averaged Loss: 9.632861, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 68: average Loss: 9.025951
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 69: 0/4 Loss: 9.489246
+2024-11-03 19:09: **********Train Epoch 69: averaged Loss: 9.331918, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 69: average Loss: 8.742197
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 70: 0/4 Loss: 9.121252
+2024-11-03 19:09: **********Train Epoch 70: averaged Loss: 9.017629, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 70: average Loss: 8.477581
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 71: 0/4 Loss: 8.877343
+2024-11-03 19:09: **********Train Epoch 71: averaged Loss: 8.749773, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 71: average Loss: 8.233403
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 72: 0/4 Loss: 8.523691
+2024-11-03 19:09: **********Train Epoch 72: averaged Loss: 8.505979, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 72: average Loss: 8.011495
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 73: 0/4 Loss: 8.273039
+2024-11-03 19:09: **********Train Epoch 73: averaged Loss: 8.284343, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 73: average Loss: 7.812877
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 74: 0/4 Loss: 8.156938
+2024-11-03 19:09: **********Train Epoch 74: averaged Loss: 8.046913, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 74: average Loss: 7.636950
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 75: 0/4 Loss: 8.037647
+2024-11-03 19:09: **********Train Epoch 75: averaged Loss: 7.840785, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 75: average Loss: 7.485291
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 76: 0/4 Loss: 7.848369
+2024-11-03 19:09: **********Train Epoch 76: averaged Loss: 7.709148, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 76: average Loss: 7.358308
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 77: 0/4 Loss: 7.484884
+2024-11-03 19:09: **********Train Epoch 77: averaged Loss: 7.514968, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 77: average Loss: 7.254254
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 78: 0/4 Loss: 7.515162
+2024-11-03 19:09: **********Train Epoch 78: averaged Loss: 7.451966, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 78: average Loss: 7.171697
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 79: 0/4 Loss: 7.589823
+2024-11-03 19:09: **********Train Epoch 79: averaged Loss: 7.292802, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 79: average Loss: 7.108875
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 80: 0/4 Loss: 7.088854
+2024-11-03 19:09: **********Train Epoch 80: averaged Loss: 7.168155, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 80: average Loss: 7.064778
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 81: 0/4 Loss: 7.275678
+2024-11-03 19:09: **********Train Epoch 81: averaged Loss: 7.160671, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 81: average Loss: 7.036865
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 82: 0/4 Loss: 7.225953
+2024-11-03 19:09: **********Train Epoch 82: averaged Loss: 7.121006, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 82: average Loss: 7.022053
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 83: 0/4 Loss: 7.038105
+2024-11-03 19:09: **********Train Epoch 83: averaged Loss: 7.073973, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 83: average Loss: 7.017108
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 84: 0/4 Loss: 7.049164
+2024-11-03 19:09: **********Train Epoch 84: averaged Loss: 7.060026, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 84: average Loss: 7.018747
+2024-11-03 19:09: Train Epoch 85: 0/4 Loss: 7.043987
+2024-11-03 19:09: **********Train Epoch 85: averaged Loss: 7.040500, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 85: average Loss: 7.023960
+2024-11-03 19:09: Train Epoch 86: 0/4 Loss: 6.978932
+2024-11-03 19:09: **********Train Epoch 86: averaged Loss: 7.005680, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 86: average Loss: 7.030693
+2024-11-03 19:09: Train Epoch 87: 0/4 Loss: 7.166700
+2024-11-03 19:09: **********Train Epoch 87: averaged Loss: 7.003902, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 87: average Loss: 7.037438
+2024-11-03 19:09: Train Epoch 88: 0/4 Loss: 7.164503
+2024-11-03 19:09: **********Train Epoch 88: averaged Loss: 7.034838, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 88: average Loss: 7.043169
+2024-11-03 19:09: Train Epoch 89: 0/4 Loss: 7.032334
+2024-11-03 19:09: **********Train Epoch 89: averaged Loss: 7.030910, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 89: average Loss: 7.046967
+2024-11-03 19:09: Train Epoch 90: 0/4 Loss: 6.885546
+2024-11-03 19:09: **********Train Epoch 90: averaged Loss: 6.979026, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 90: average Loss: 7.049167
+2024-11-03 19:09: Train Epoch 91: 0/4 Loss: 7.319050
+2024-11-03 19:09: **********Train Epoch 91: averaged Loss: 7.031462, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 91: average Loss: 7.049546
+2024-11-03 19:09: Train Epoch 92: 0/4 Loss: 7.009065
+2024-11-03 19:09: **********Train Epoch 92: averaged Loss: 7.010411, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 92: average Loss: 7.048934
+2024-11-03 19:09: Train Epoch 93: 0/4 Loss: 6.841941
+2024-11-03 19:09: **********Train Epoch 93: averaged Loss: 6.977381, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 93: average Loss: 7.047355
+2024-11-03 19:09: Train Epoch 94: 0/4 Loss: 7.082767
+2024-11-03 19:09: **********Train Epoch 94: averaged Loss: 7.043040, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 94: average Loss: 7.041746
+2024-11-03 19:09: Train Epoch 95: 0/4 Loss: 7.161510
+2024-11-03 19:09: **********Train Epoch 95: averaged Loss: 6.985665, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 95: average Loss: 7.010187
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 96: 0/4 Loss: 6.974440
+2024-11-03 19:09: **********Train Epoch 96: averaged Loss: 6.935333, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 96: average Loss: 6.965602
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 97: 0/4 Loss: 6.995729
+2024-11-03 19:09: **********Train Epoch 97: averaged Loss: 6.981140, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 97: average Loss: 6.982597
+2024-11-03 19:09: Train Epoch 98: 0/4 Loss: 6.982890
+2024-11-03 19:09: **********Train Epoch 98: averaged Loss: 6.973996, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 98: average Loss: 6.959859
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 99: 0/4 Loss: 6.932848
+2024-11-03 19:09: **********Train Epoch 99: averaged Loss: 6.949227, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 99: average Loss: 6.957647
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Train Epoch 100: 0/4 Loss: 7.051626
+2024-11-03 19:09: **********Train Epoch 100: averaged Loss: 6.952541, tf_ratio: 1.000000
+2024-11-03 19:09: **********Val Epoch 100: average Loss: 6.913283
+2024-11-03 19:09: *********************************Current best model saved!
+2024-11-03 19:09: Total training time: 0.8291min, best loss: 6.913283
+2024-11-03 19:09: Saving current best model to /root/AGCRN/model/experiments/HOURS/data6/2/20241103190827/best_model.pth
+2024-11-03 19:09: Horizon 01, MAE: 6.97, RMSE: 12.18, MAPE: 18.5679%
+2024-11-03 19:09: Horizon 02, MAE: 6.94, RMSE: 12.15, MAPE: 18.5027%
+2024-11-03 19:09: Horizon 03, MAE: 6.91, RMSE: 12.12, MAPE: 18.4198%
+2024-11-03 19:09: Horizon 04, MAE: 6.88, RMSE: 12.07, MAPE: 18.3144%
+2024-11-03 19:09: Horizon 05, MAE: 6.83, RMSE: 12.01, MAPE: 18.1748%
+2024-11-03 19:09: Horizon 06, MAE: 6.79, RMSE: 11.95, MAPE: 18.0204%
+2024-11-03 19:09: Horizon 07, MAE: 6.74, RMSE: 11.87, MAPE: 17.8402%
+2024-11-03 19:09: Horizon 08, MAE: 6.70, RMSE: 11.81, MAPE: 17.6694%
+2024-11-03 19:09: Horizon 09, MAE: 6.65, RMSE: 11.75, MAPE: 17.5039%
+2024-11-03 19:09: Horizon 10, MAE: 6.61, RMSE: 11.67, MAPE: 17.3136%
+2024-11-03 19:09: Horizon 11, MAE: 6.64, RMSE: 11.72, MAPE: 17.4287%
+2024-11-03 19:09: Horizon 12, MAE: 6.67, RMSE: 11.77, MAPE: 17.5369%
+2024-11-03 19:09: Average Horizon, MAE: 6.78, RMSE: 11.92, MAPE: 17.9410%
